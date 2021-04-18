@@ -27,10 +27,20 @@
  - ## Bipartidarismo
  1 - Conceito: tem-se 2 partidos antagônicos que disputam poder em todas eleições, aquele que perder se torna oposição oficial e institucionalizada <br>
  2 - Origem: Inglaterra e Estados Unidos
+ >O jurista brasileiro <br>
+![image](https://user-images.githubusercontent.com/62779334/115150427-b3ce7280-a03e-11eb-98ee-1cc2ce9f0d86.png)
+
+
  
  - ## Multipartidarismo
 1 - Conceito: tem-se 3 ou mais partidos políticos que podem assumir o controle de um governo, de maneira independente, ou numa coalizão, são farmosos blocos com objetivos em comun <br>
 2 - 
+
+## Bipartidarismo x Multipartidarismo
+- Bipartidarismo: Eleições são majoritárias 
+- Multipartidarismo: Eleições Proporcionais
+![image](https://user-images.githubusercontent.com/62779334/115150171-9baa2380-a03d-11eb-894d-02e3466bac3e.png)
+
  
  - ## Unipartidarismo
 1 - Conceito: é um sistema partidário em que um único partido político é legal <br>
