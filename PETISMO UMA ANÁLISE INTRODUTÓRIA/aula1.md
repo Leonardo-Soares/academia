@@ -5,13 +5,13 @@
     o poder para difundir seu objetivo, utiliza-se de uma 
     "agenda" quando chegarem ao poder. 
     
- ## Origem
+ ## ⏳ | Origem
  
  - País: Inglaterra
  - Período: XVIII
  - Eventos: Pós queda do absolutismo e revolução industrial
 
-## Popularização (1848)
+## 📈 | Popularização (1848)
 
 - Primavera dos Povos <br>
 
@@ -21,7 +21,7 @@
 - Popularização do Socialismo
     >Fim do Absolutismo<br>
  
- ## Sistemas Partidários
+ ## 📍 | Sistemas Partidários
  ![image](https://user-images.githubusercontent.com/62779334/115145590-b8882c00-a028-11eb-84c4-859ee1321f83.png)
  
  - ## Bipartidarismo
@@ -36,5 +36,5 @@
 1 - Conceito: é um sistema partidário em que um único partido político é legal <br>
 
 
-## Referências
+## 📚 | Referências
 [InfoEscola](https://www.infoescola.com/historia/primavera-dos-povos/#:~:text=Primavera%20dos%20Povos%20é%20o,assustando%20as%20monarquias%20absolutistas%20europeias.)
