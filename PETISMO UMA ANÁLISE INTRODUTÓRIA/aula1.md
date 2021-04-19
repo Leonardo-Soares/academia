@@ -23,28 +23,33 @@
  
  ## 📍 | Sistemas Partidários
  ![image](https://user-images.githubusercontent.com/62779334/115145590-b8882c00-a028-11eb-84c4-859ee1321f83.png)
- 
- - ## Bipartidarismo
- 1 - Conceito: tem-se 2 partidos antagônicos que disputam poder em todas eleições, aquele que perder se torna oposição oficial e institucionalizada <br>
- 2 - Origem: Inglaterra e Estados Unidos
- >O jurista brasileiro <br>
-![image](https://user-images.githubusercontent.com/62779334/115150427-b3ce7280-a03e-11eb-98ee-1cc2ce9f0d86.png)
 
+- ## Bipartidarismo
+1 - Conceito: tem-se 2 partidos antagônicos que disputam poder em todas eleições, aquele que perder se torna oposição oficial e institucionalizada <br>
+2 - Origem: Inglaterra e Estados Unidos
+
+>O jurista brasileiro <br>
+>O jurista francês Maurice Duverger, analisando os sistemas partidários, criou a "Lei de Duverger" (não é uma lei no sentido jurídico!), que explica que o voto majoritário favorece o bipartidarismo, enquanto o voto proporcional favorece o multipartidarismo. <br>
+>![image](https://user-images.githubusercontent.com/62779334/115166161-fb2d2100-a087-11eb-910b-0be4dabb1b1b.png)
 
  
  - ## Multipartidarismo
 1 - Conceito: tem-se 3 ou mais partidos políticos que podem assumir o controle de um governo, de maneira independente, ou numa coalizão, são farmosos blocos com objetivos em comun <br>
-2 - 
+2 - Características: cada partido possui sua ideologia e posicionamentos, as vezes forma blocos, coalisões, alianças ou coligações para alcançarem o poder, desde que entre eles possuem mais convergências ideologicas.
 
 ## Bipartidarismo x Multipartidarismo
-- Bipartidarismo: Eleições são majoritárias 
-- Multipartidarismo: Eleições Proporcionais
+- Bipartidarismo: Eleições são majoritárias
+- Multipartidarismo: Eleições Proporcionais 
 ![image](https://user-images.githubusercontent.com/62779334/115150171-9baa2380-a03d-11eb-894d-02e3466bac3e.png)
 
  
- - ## Unipartidarismo
+- ## Unipartidarismo
 1 - Conceito: é um sistema partidário em que um único partido político é legal <br>
+2 - Características: muito comun em sistemas totalitários, em geral socialistas.Exemplo: China
 
+## Partidos no Brasil
+- Sistema partidário mais proximó: Multipartidarismo
+- Características: grande parte dos partidos são na maioria das vezes sem ideologias e "ligado" mais em eleições devido proporcionar capital para o mesmo.Os partidos brasileiros possuem objetivos de curto prazo e momentâneos, focados em chegar ao poder e não aplicar aquilo na qual acreditam.
 
 ## 📚 | Referências
 [InfoEscola](https://www.infoescola.com/historia/primavera-dos-povos/#:~:text=Primavera%20dos%20Povos%20é%20o,assustando%20as%20monarquias%20absolutistas%20europeias.)
