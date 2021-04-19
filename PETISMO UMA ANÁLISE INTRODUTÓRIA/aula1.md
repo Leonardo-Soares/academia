@@ -1,9 +1,7 @@
 # Título: Entendo histórico
 
 ## 📃 | Conceito de um Partido: 
-    Agrupamento de pessoas com objetivos em comum que almejam
-    o poder para difundir seu objetivo, utiliza-se de uma 
-    "agenda" quando chegarem ao poder. 
+>Agrupamento de pessoas com objetivos em comum que almejam o poder para difundir seu objetivo, utiliza-se de uma "agenda" quando chegarem ao poder. 
     
  ## ⏳ | Origem
  
@@ -16,7 +14,7 @@
 - Primavera dos Povos <br>
 
 >De acordo com InfoEscola: <br>
->Primavera dos Povos é o nome que se dá a uma série de movimentos revolucionários de cunho liberal que ocorreram por toda a Europa durante o ano     de 1848. Com a Revolução Francesa de 1789, os ideais libertários espalharam-se por toda a Europa, assustando as monarquias absolutistas europeias. 
+>Primavera dos Povos é o nome que se dá a uma série de movimentos revolucionários de cunho liberal que ocorreram por toda a Europa durante o ano de 1848. Com a Revolução  Francesa de 1789, os ideais libertários espalharam-se por toda a Europa, assustando as monarquias absolutistas europeias. 
 
 - Popularização do Socialismo
     >Fim do Absolutismo<br>
