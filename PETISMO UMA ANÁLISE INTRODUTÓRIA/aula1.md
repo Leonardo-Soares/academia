@@ -1,4 +1,4 @@
-# Titulo: Entendo histórico
+# Título: Entendo histórico
 
 ## 📃 | Conceito de um Partido: 
     Agrupamento de pessoas com objetivos em comum que almejam
@@ -25,7 +25,7 @@
  ![image](https://user-images.githubusercontent.com/62779334/115145590-b8882c00-a028-11eb-84c4-859ee1321f83.png)
 
 - ## Bipartidarismo
-1 - Conceito: tem-se 2 partidos antagônicos que disputam poder em todas eleições, aquele que perder se torna oposição oficial e institucionalizada <br>
+1 - Conceito: tem-se 2 partidos antagônicos que disputam poder em todas as eleições, aquele que perder se torna oposição oficial e institucionalizada <br>
 2 - Origem: Inglaterra e Estados Unidos
 
 >O jurista brasileiro <br>
@@ -34,7 +34,7 @@
 
  
  - ## Multipartidarismo
-1 - Conceito: tem-se 3 ou mais partidos políticos que podem assumir o controle de um governo, de maneira independente, ou numa coalizão, são farmosos blocos com objetivos em comun <br>
+1 - Conceito: tem-se 3 ou mais partidos políticos que podem assumir o controle de um governo, de maneira independente, ou numa coalizão, são famosos blocos com objetivos em comum. <br>
 2 - Características: cada partido possui sua ideologia e posicionamentos, as vezes forma blocos, coalisões, alianças ou coligações para alcançarem o poder, desde que entre eles possuem mais convergências ideologicas.
 
 ## Bipartidarismo x Multipartidarismo
@@ -45,10 +45,10 @@
  
 - ## Unipartidarismo
 1 - Conceito: é um sistema partidário em que um único partido político é legal <br>
-2 - Características: muito comun em sistemas totalitários, em geral socialistas.Exemplo: China
+2 - Características: muito comum em sistemas totalitários, em geral socialistas.Exemplo: China
 
 ## Partidos no Brasil
-- Sistema partidário mais proximó: Multipartidarismo
+- Sistema partidário mais próximo: Multipartidarismo
 - Características: grande parte dos partidos são na maioria das vezes sem ideologias e "ligado" mais em eleições devido proporcionar capital para o mesmo.Os partidos brasileiros possuem objetivos de curto prazo e momentâneos, focados em chegar ao poder e não aplicar aquilo na qual acreditam.
 
 ## 📚 | Referências
