@@ -1,3 +1,4 @@
-# ACADEMIA MBL
-# Alexandria - Juiz
-# Panteras da Virtude
+# 🏫 ACADEMIA MBL
+# 🗼 Alexandria
+# ⚖️ Juiz
+# 🐯 Panteras da Virtude
