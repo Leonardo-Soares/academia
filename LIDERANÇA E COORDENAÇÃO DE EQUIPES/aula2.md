@@ -1,7 +1,7 @@
 
 # Aula 2
 
-# Titúlo: Formação dos núcleos, escritório e etc
+# Tema: Formação dos núcleos, escritório e etc
 
 ## 📑Sobre
 Nessa aula, o prof. Renan fala da organização do Movimento Brasil Livre, sobre como foram formados os núcleos a partir das personalidades centrais de 2014. Para tanto, ele se baseia na ideia de arquétipo de personalidade (derivada da teoria Junguiana) e vai mostrando a articulação desses tipos humanos com suas tarefas dentro do movimento. Ao final, o prof. explica como o MBL tinha uma ação política vanguardista por conta dos tipos humanos que se reuniram na sua formação original.
