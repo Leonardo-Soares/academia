@@ -10,21 +10,21 @@ Nessa aula, o prof. Ian Garcez explica quais foram os bastidores da Marcha para 
 
 Após finalizar sua carreira de militante no partido, inicia sua carreira em jornais e escritor <br>
 
-1970 - Inicia seu interesse em astrologia e começa a estuda filosofia islâmica <br>
+1970 - Inicia seu interesse em astrologia e começa a estudar filosofia islâmica <br>
 
-1980 - Publica de escrito em astrologia entra em contato com a tarica (Maçonaria do Oriente Médio) <br>
+1980 - Pública de escrito em astrologia entra em contato com a tarica (Maçonaria do Oriente Médio) <br>
 
 - Entra para uma tarica <br>
 
-1990 - Inicia seus estudos em filosofia, e devido a morte de seu professor vem abodanar o curso <br>
+1990 - Inicia seus estudos em filosofia, e devido a morte de seu professor vem abandonar o curso <br>
 
 1995 - Lança seu livro "O Jardim das Aflições" <br>
 
 1996 - Lança o livro "O Imbncil Coletivo" <br>
 
-2000 - Inicio de sua influência para a "Nova Direita Brasileira" <br>
+2000 - Início de sua influência para a "Nova Direita Brasileira" <br>
 
-2005 - Viaja ao EUA e utiliza o Ourkut para questionamentos e debates <br>
+2005 - Viaja ao EUA e utiliza o Orkut para questionamentos e debates <br>
 
 2010 - Presença em debates, polêmicas e outros temas normalmente não debatidos em mídias e universidades <br>
 
@@ -35,17 +35,18 @@ Após finalizar sua carreira de militante no partido, inicia sua carreira em jor
 - Encontros onlines hangouts com autoridades de direita foram se popularizando e alimnetando o impeachment <br>
 
 ## Apoio a marcha
-- Olavo apoia o ato simbólico e assim diversos influencidores dão mais sentido aos protestos <br>
-- Kin Kataguiri particapa de Hangouts
+- Olavo apoia o ato simbólico e assim diversos influenciadores dão mais sentido aos protestos <br>
+- Kin Kataguiri participa de Hangouts com outras lideranças
 
 ## Rompimento
-- Olavo começa a se inclinar para metódos revolucionários <br>
-- MBL apoia meios licitos e limites para o combate ao "PT" <br>
+- Olavo começa a se inclinar para métodos revolucionários <br>
+- MBL apoia meios lícitos e limites para o combate ao "PT" <br>
 
 ## Movimentos
-- MBL, Vem Pra Rua e Rovoltados Online <br>
+- MBL, Vem Pra Rua e Revoltados Online <br>
 - Surgi muitos e alguns para aproveitar o cenário <br>
 
 ## Conclusão
-- 
-
+- Olavo adota uma postura mais "revolucionária"
+- Revoltados Online adota postura mais "militarizadas"
+- MBL e Vem Pra Rua atuam mais em utilizar os meios legais para atingir o objetivo (impeachment)
