@@ -5,7 +5,7 @@
 ## 📑 Sobre
 Nessa aula, o prof. Ricardo Almeida discorre sobre a historiografia do iluminismo, sua importância, suas características e o que significa uma história "judicante". O prof. passeia por alguns autores como Condorcet e Voltaire.
 
-## Natureza Humana
+## 💪Natureza Humana
 - Composta de normas morais
 - A partir dessas normas julgava-se outros povos
 
@@ -15,7 +15,7 @@ Rousseau:
 Marquês de Condorcet:
     Fazia-se previsões a respeito de avanços da sociedade, na qual sempre possuía o progresso como transcurso inevitável
     
-## Idade Média
+## ⚔️Idade Média
 Voltaire:
     Presencia o declínio da Idade Média e o fim da obscuridade
     
@@ -27,15 +27,16 @@ Voltaire:
 - O renascimento seria o abandono a "Época de Trevas"
 
 
-## Secularização
+## 📅Secularização
 - Dicionário-Histórico (Pierre Bayle):
     Crítica bíblicas (Fontes)
     Crítica aos milagres
 - Cristianismo "Racional"
 - Abandono da Fé
 
-Problema Teológico Político 
+📌Problema Teológico Político 
 
 # 📚Sugestões (livros, artigos e etc.)
 - Baruch Espinoza
 - Pierre Bayle
+- THOMAS HOBBES, Leviatã
