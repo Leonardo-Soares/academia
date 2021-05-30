@@ -1,4 +1,4 @@
-# Aula 3
+# Aula 4
 
 # Tema: A História Iluminista
 
@@ -13,14 +13,29 @@ Rousseau:
     Conhecimento de artes debilita o ser humano e se distancia de sua "natureza"
     
 Marquês de Condorcet:
-    Fazia-se previsões a respeito de avanços da sociedade, na qual sempre possuia o progresso como transcurso inevitável
+    Fazia-se previsões a respeito de avanços da sociedade, na qual sempre possuía o progresso como transcurso inevitável
     
 ## Idade Média
-Voalteire:
-    Presencia o declinio da Idade Média e o fim da obscuridade
+Voltaire:
+    Presencia o declínio da Idade Média e o fim da obscuridade
     
-- Para os principais interlectuais nesse período foi a Cultura Clerical
+- Para os principais intelectuais nesse período foi a Cultura Clerical
 
-    
-# 📚Sugestões (livros, artigos e etc)
+    A cultura clerical esforçou-se na marginalização de todo um corpo de comportamentos e práticas             culturais socialmente admitidos e que, a partir de então, começaram a ser criticados e condenados.
 
+- Catolicismo resplandece
+- O renascimento seria o abandono a "Época de Trevas"
+
+
+## Secularização
+- Dicionário-Histórico (Pierre Bayle):
+    Crítica bíblicas (Fontes)
+    Crítica aos milagres
+- Cristianismo "Racional"
+- Abandono da Fé
+
+Problema Teológico Político 
+
+# 📚Sugestões (livros, artigos e etc.)
+- Baruch Espinoza
+- Pierre Bayle
