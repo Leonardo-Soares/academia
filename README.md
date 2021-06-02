@@ -27,7 +27,7 @@
 - ✅ Aula 1 
 - ✅ Aula 2
 - ✅ Aula 3
-- ✅ Aula 4
+- ✅ Aula 4*
 - ✅ Aula 5
 
 ### Petismo: Uma análise introdutória
@@ -38,7 +38,9 @@
 ### Liderança e Coordenação de Equipes
 - ✅ Aula 1 
 - ✅ Aula 2
-- [ ] Aula 3
+- ✅ Aula 3
+- ✅ Aula 4
+- [ ] Aula 5
 
 ### Formação Política
 - ✅ Aula 1 
@@ -49,7 +51,7 @@
 
 ### Teoria Geral do Estado e Fundamentos do Direito
 - ✅ Aula 1 
-- [ ] Aula 2
+- ✅ Aula 2*
 - [ ] Aula 3
 
 ### A arte do debate
