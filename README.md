@@ -3,9 +3,8 @@
 # ⚖️ Juiz
 # 🐯 Panteras da Virtude
 
-## Checklist
-*possível lista de aulas do módulo 1*
-## Módulo Inicial
+
+## Módulo que possuem resumos neste repertório 
 ### Memistica e Redes
 - ✅ Aula 1 
 - ✅ Aula 2
