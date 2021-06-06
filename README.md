@@ -40,7 +40,7 @@
 - ✅ Aula 2
 - ✅ Aula 3
 - ✅ Aula 4
-- [ ] Aula 5
+- ✅ Aula 5
 
 ### Formação Política
 - ✅ Aula 1 
