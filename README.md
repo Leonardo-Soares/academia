@@ -56,7 +56,7 @@
 
 ### A arte do debate
 - ✅ Aula 1 
-- [ ] Aula 2
+- ✅ Aula 2
 
 ### Marketing Político
 - ✅ Aula 1 
