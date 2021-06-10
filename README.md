@@ -52,7 +52,7 @@
 ### Teoria Geral do Estado e Fundamentos do Direito
 - ✅ Aula 1 
 - ✅ Aula 2*
-- [ ] Aula 3
+- ✅ Aula 3
 
 ### A arte do debate
 - ✅ Aula 1 
