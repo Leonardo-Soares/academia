@@ -29,6 +29,8 @@
 - ✅ Aula 3
 - ✅ Aula 4*
 - ✅ Aula 5
+- ✅ Aula 6
+
 
 ### Petismo: Uma análise introdutória
 - ✅ Aula 1 
