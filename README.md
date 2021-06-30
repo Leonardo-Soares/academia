@@ -13,7 +13,6 @@
 -  Aula 5
 
 
-
 ### História e Pensamento do MBL
 - ✅ Aula 1 
 - ✅ Aula 2
@@ -57,7 +56,7 @@
 - ✅ Aula 2
 - ✅ Aula 3
 - ✅ Aula 4
-- Aula 5
+- ✅ Aula 5
 - Aula 6
 
 ### Liderança e Coordenação de Equipes
