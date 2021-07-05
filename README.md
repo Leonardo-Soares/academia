@@ -24,7 +24,7 @@
 -  Aula 8
 
 
-### Economia e Administração Política
+### Economia e Administração Pública
 - ✅ Introdução 
 - ✅ Aula 1
 - ✅ Aula 2
@@ -32,7 +32,7 @@
 - ✅ Aula 4
 - ✅ Aula 5
 - ✅ Aula 6
-- Aula 7
+- ✅ Aula 7
 
 ### Organização e Militância
 - ✅ Aula 1 
