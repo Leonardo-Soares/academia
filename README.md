@@ -67,7 +67,7 @@
 - ✅ Aula 5
 - ✅ Aula 6
 - ✅ Aula 7
-- Aula 8
+- ✅ Aula 8
 
 ### Formação Política
 - ✅ Aula 1 
