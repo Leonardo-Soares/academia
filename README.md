@@ -57,7 +57,7 @@
 - ✅ Aula 3
 - ✅ Aula 4
 - ✅ Aula 5
-- Aula 6
+- ✅ Aula 6
 
 ### Liderança e Coordenação de Equipes
 - ✅ Aula 1 
